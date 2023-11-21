@@ -1,4 +1,4 @@
-[![MasterHead](https://tsihomepage.weebly.com/uploads/1/3/3/2/133246614/255491738_orig.gif)]
+[MasterHead](https://tsihomepage.weebly.com/uploads/1/3/3/2/133246614/255491738_orig.gif)
 <h1 align="center">Hi 👋, I'm Hamza Ajmal</h1>
 <h3 align="center">A MERN Stack developer from Pakistan</h3>
 
