@@ -1,6 +1,7 @@
-[![MasterHead](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)]
+
 <h1 align="center">Hi 👋, I'm Hamza Ajmal</h1>
 <h3 align="center">A MERN Stack developer from Pakistan</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzajmal00" alt="hamzajmal00" /></a> </p>
 
